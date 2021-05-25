@@ -11,6 +11,19 @@
      
      ![sshot-361](https://user-images.githubusercontent.com/60801374/119421113-dca8ee00-bcf5-11eb-9c43-569a91ff40af.png)
      
+  ### Step 1: clone project at "C:\Users\hp\AndroidStudioProjects"
+  
+  On GitHub, navigate to the main page of the repository.
+
+Above the list of files, click Code.
+
+Open your cmd write or your Open Git Bash. and Type
+
+              $ git clone https://github.com/HatimLabied/ClubMakerMobile.git
+
+![téléchargement](https://user-images.githubusercontent.com/60801374/119422621-63ab9580-bcf9-11eb-8429-14c753cfebf5.png)
+
+	      
  ### Step 2:Run on an emulator
  
 Run the app on an emulator as follows:
