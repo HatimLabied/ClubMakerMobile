@@ -1,10 +1,34 @@
 
+
+ ##how to run it 
+
+ ### Step 1:Instal Android Studio
+ 
+     i-Java SDK
+     ii-Le Java Development Kit
+     
+     configuration see :https://openclassrooms.com/fr/courses/2023346-creez-des-applications-pour-android/2023748-installation-et-configuration-des-outils
+     
+     ![sshot-361](https://user-images.githubusercontent.com/60801374/119421113-dca8ee00-bcf5-11eb-9c43-569a91ff40af.png)
+     
+ ### Step 2:Run on an emulator
+ 
+Run the app on an emulator as follows:
+
+![deploy-run-app](https://user-images.githubusercontent.com/60801374/119420910-5ab8c500-bcf5-11eb-8294-c597fa210571.png)
+
+
+1-In Android Studio, create an Android Virtual Device (AVD) that the emulator can use to install and run your app.
+
+2-In the toolbar, select your app from the run/debug configurations drop-down menu.
+
+3-From the target device drop-down menu, select the AVD that you want to run your app on.
+
+4-Click Run .
+
  ### 👤 Default Account for testing
 	
 **Admin Default Account**
-
-http://localhost/PFE/welcome/admin
-
 - Email : admin@gmail.com 
 - Password : admin
 
